@@ -8,6 +8,7 @@ int main()
 	printf("unknown to balabala\n");
 	for(int i=1;i<5;i++)
 	{
-		printf("YWB is a pig\n");
+		printf("YWB is a pig.\n");
 	}
+	printf("MGJ is also a pig.\n");
 }

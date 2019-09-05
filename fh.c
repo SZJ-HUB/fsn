@@ -5,4 +5,5 @@
 int main()
 {
 	printf("ok,let's go.\n");
+	printf("unknown to balabala\n");
 }

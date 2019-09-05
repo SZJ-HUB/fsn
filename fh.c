@@ -11,4 +11,5 @@ int main()
 		printf("YWB is a pig.\n");
 	}
 	printf("MGJ is also a pig.\n");
+	printf("balabala.\n");
 }
